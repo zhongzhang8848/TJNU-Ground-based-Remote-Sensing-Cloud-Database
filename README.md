@@ -12,21 +12,21 @@ Please download, fill and sign the [TJNU-GRSCD Agreement](https://github.com/zho
 @article{liu2020ground,  
 author = {Liu, Shuang and Li, Mei and Zhang, Zhong and Cao, Xiaozhong and Durrani, Tariq S.},  
 title = {Ground-Based Cloud Classification Using Task-Based Graph Convolutional Network},  
-journal = {Geophysical Research Letters},
-volume = {47},
-number = {5},
-pages = {e2020GL087338},
-year = {2020},
-publisher={Wiley Online Library}
+journal = {Geophysical Research Letters},  
+volume = {47},  
+number = {5},  
+pages = {e2020GL087338},  
+year = {2020},  
+publisher={Wiley Online Library}  
 }
 
-@article{liu2020multi,
-title = {Multi-evidence and Multi-modal Fusion Network for Ground-based Cloud Recognition},
-author = {Liu, Shuang and Li, Mei and Zhang, Zhong and Xiao, Baihua and Durrani, Tariq S.},
-journal = {Remote Sensing},
-volume = {12},
-number = {3},
-pages = {464},
-year = {2020},
-publisher = {Multidisciplinary Digital Publishing Institute}
+@article{liu2020multi,  
+title = {Multi-evidence and Multi-modal Fusion Network for Ground-based Cloud Recognition},  
+author = {Liu, Shuang and Li, Mei and Zhang, Zhong and Xiao, Baihua and Durrani, Tariq S.},  
+journal = {Remote Sensing},  
+volume = {12},  
+number = {3},  
+pages = {464},  
+year = {2020},  
+publisher = {Multidisciplinary Digital Publishing Institute}  
 }
