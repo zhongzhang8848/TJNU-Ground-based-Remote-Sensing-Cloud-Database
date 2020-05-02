@@ -9,9 +9,9 @@ The TJNU ground-based remote sensing cloud database (TJNU-GRSCD) is collected in
 Please download, fill and sign the [TJNU-GRSCD Agreement](https://github.com/zhongzhang8848/TJNU-Ground-based-Remote-Sensing-Cloud-Database/blob/master/TJNU-GRSCD%20Agreement.pdf) and return the whole document to zhong.zhang8848@gmail.com or zhangz@tjnu.edu.cn. The downloaded URL and password will be contained in the replied email.
 
 # If you use this dataset in your research, please kindly cite our work as,
-@article{liu2020ground,
-author = {Liu, Shuang and Li, Mei and Zhang, Zhong and Cao, Xiaozhong and Durrani, Tariq S.},
-title = {Ground-Based Cloud Classification Using Task-Based Graph Convolutional Network},
+@article{liu2020ground,  
+author = {Liu, Shuang and Li, Mei and Zhang, Zhong and Cao, Xiaozhong and Durrani, Tariq S.},  
+title = {Ground-Based Cloud Classification Using Task-Based Graph Convolutional Network},  
 journal = {Geophysical Research Letters},
 volume = {47},
 number = {5},
