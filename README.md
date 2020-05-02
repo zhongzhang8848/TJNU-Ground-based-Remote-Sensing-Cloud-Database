@@ -21,21 +21,12 @@ publisher={Wiley Online Library}
 }
 
 @article{liu2020multi,
-
 title = {Multi-evidence and Multi-modal Fusion Network for Ground-based Cloud Recognition},
-
 author = {Liu, Shuang and Li, Mei and Zhang, Zhong and Xiao, Baihua and Durrani, Tariq S.},
-
 journal = {Remote Sensing},
-
 volume = {12},
-
 number = {3},
-
 pages = {464},
-
 year = {2020},
-
 publisher = {Multidisciplinary Digital Publishing Institute}
-
 }
